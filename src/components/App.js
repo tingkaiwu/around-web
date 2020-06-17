@@ -1,5 +1,4 @@
 import React from 'react';
-import '../styles/App.css';
 import TopBar from './TopBar';
 import Main from './Main'
 
