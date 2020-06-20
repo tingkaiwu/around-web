@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Register } from './Register';
+import Register from './Register';
 import { Switch, Router } from 'react-router-dom';
 import { Login } from './Login';
 
