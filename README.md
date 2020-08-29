@@ -1,14 +1,31 @@
 ## Photo Social Circle
 
 <p>
-  <img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/around-short3.gif">
+  <img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/around2.gif">
 </p>
 
+## Introduction
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
+## Requirement
+- Node.js
+- npm
+- yarn
 
+## Installation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+```
+git clone git@github.com:tingkaiwu/around-frontend.git
+cd around-frontend
+yarn
+yarn start
+```
+
+## Program Flow
+<p>
+  <img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/around.png">
+</p>
 
 ## Available Scripts
 
