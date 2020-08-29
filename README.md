@@ -23,6 +23,17 @@ yarn
 yarn start
 ```
 
+## Skills
+
+- React
+- Golang
+- JWT
+- GCE
+- Elasticsearch
+- Google Map API
+- Google Vision API
+- Geo Location API 
+
 ## Structure
 
 <p>
