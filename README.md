@@ -1,3 +1,13 @@
+## Photo Social Circle
+
+<p>
+  <img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/around-short3.gif">
+</p>
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
